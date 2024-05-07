@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="Assets/Github Cover Page.png" alt="Cover Page"/>
+ <img src="https://www.canva.com/design/DAGEkj5Klm8/TdwjmcIC4cJ8xjHdl1uVrA/view?utm_content=DAGEkj5Klm8&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Cover Page"/>
 </p>
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​: 
