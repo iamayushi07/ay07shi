@@ -41,6 +41,4 @@
 
 ---
 
-<p align="center">
- <img width="1000" src="![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)" alt="Snake"/>
-</p>
+
