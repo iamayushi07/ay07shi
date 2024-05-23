@@ -10,7 +10,7 @@
 
 
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​:
-| JavaScript | Solidity | Java | Python3 |
+| JavaScript | C++ | Java | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/JavaScript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Java.png" title="Java" alt="Java" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Python.png" title="Python"  alt="Python" width="80" height="80"/>|
 
