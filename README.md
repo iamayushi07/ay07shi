@@ -29,23 +29,15 @@
 ## ​🇩​​🇦​​🇹​​🇦​​🇧​​🇦​​🇸​​🇪​ ​🇲​​🇦​​🇳​​🇦​​🇬​​🇪​​🇲​​🇪​​🇳​​🇹​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​​🇸​ (​🇩​​🇧​​🇲​​🇸​):
 | SQL | PostgreSQL | MongoDB | MySQL | SQLite |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-|<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/raw/main/Assests/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/raw/main/Assests/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/raw/main/Assests/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/raw/main/Assests/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/raw/main/Assests/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
 
 
 ## ​🇩​​🇪​​🇻​​🇴​​🇵​​🇸:​
 | Git | Docker |
 |:----------:|:----------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Git.png" title="Git" alt="Git" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>|
+|<img src="https://github.com/mainishanhoon/mainishanhoon/raw/main/Assests/Git.png" title="Git" alt="Git" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>|
 
-## 🇴​​🇵​​🇪​​🇷​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇸​​🇾​​🇸​​🇹​​🇪​​🇲​:
-| Linux | Windows | MacOS |
-|:----------:|:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="80" height="80"/>|<img src="https://static-00.iconduck.com/assets.00/macos-icon-1024x1024-szj3xvca.png" title="MacOS" alt="MacOS" width="80" height="80"/>|
 
-## ​🇮​​🇳​​🇹​​🇪​​🇬​​🇷​​🇦​​🇹​​🇪​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇪​​🇳​​🇻​​🇮​​🇷​​🇴​​🇳​​🇲​​🇪​​🇳​​🇹​ (​🇮​​🇩​​🇪​):
-| VS Code | Sublime Text |
-|:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Sublime%20Text.svg" title="Windows" alt="Windows" width="80" height="80"/>|
 
 ---
 
