@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.licdn.com/dms/image/D4D16AQHFz_9aAp2JyQ/profile-displaybackgroundimage-shrink_350_1400/0/1716489280980?e=1721865600&v=beta&t=frTw0KaLD0sYZ3gNXM0gQ9G_pS172js_-U-BNCTeMY8" alt="Cover Page"/>
+ <img src="https://media.licdn.com/dms/image/D4D16AQGAJJLWVgUm9A/profile-displaybackgroundimage-shrink_350_1400/0/1716489357027?e=1721865600&v=beta&t=ptOYfmwJnjQV6PE8Z5P2cN2MUlMsL8s2jIbnjVoZsWg" alt="Cover Page"/>
 </p>
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​: 
