@@ -4,10 +4,7 @@
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​: 
 
-**🇫​🇮​🇷​🇸​🇹​-🇾​🇪​🇦​🇷​ 🇧​.🇹​🇪​🇨​🇭​ 🇸​🇹​🇺​🇩​🇪​🇳​🇹​, 🇮​ 🇷​🇪​🇦​🇱​🇱​🇾​ 🇱​🇮​🇰​🇪​ 🇧​🇱​🇴​🇨​🇰​🇨​🇭​🇦​🇮​🇳​ 🇹​🇪​🇨​🇭​🇳​🇴​🇱​🇴​🇬​🇾​. 🇮​ 🇼​🇦​🇳​🇹​ 🇹​🇴​ 🇱​🇪​🇦​🇷​🇳​ 🇦​ 🇱​🇴​🇹​ 🇦​🇧​🇴​🇺​🇹​ 🇮​🇹​ 🇧​🇪​🇨​🇦​🇺​🇸​🇪​ 🇮​🇹​'🇸​ 🇫​🇦​🇸​🇨​🇮​🇳​🇦​🇹​🇮​🇳​🇬​ 🇹​🇴​ 🇲​🇪​.**
-
-**🇮​'🇲​ 🇪​🇽​🇨​🇮​🇹​🇪​🇩​ 🇹​🇴​ 🇩​🇮​🇸​🇨​🇴​🇻​🇪​🇷​ 🇳​🇪​🇼​ 🇹​🇭​🇮​🇳​🇬​🇸​ 🇦​🇳​🇩​ 🇭​🇪​🇱​🇵​ 🇴​🇺​🇹​ 🇮​🇳​ 🇩​🇮​🇫​🇫​🇪​🇷​🇪​🇳​🇹​ 🇦​🇷​🇪​🇦​🇸​ 🇷​🇪​🇱​🇦​🇹​🇪​🇩​ 🇹​🇴​ 🇼​🇪​🇧​3.**
-
+**I AM AN ENGINEERING STUDENT AND I AM A PASSIONATE SOFTWARE DEVELOPER WITH A LOVE FOR BOTH FRONTEND AND BACKEND TECHNOLOGIES.**
 
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​:
 | JavaScript | C++ | Java | Python3 |
@@ -22,7 +19,7 @@
 ## ​🇧​​🇦​​🇨​​🇰​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​:
 | Node.js |
 |:---------:|
-|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/Node.js.png" title="Node.js" alt="Node.js" width="80" height="80"/>|
+|<img src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" alt="Node.js" width="80" height="80"/>|
 
 ## ​🇩​​🇦​​🇹​​🇦​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪:
 | Numpy | Pandas |  Jupyter | Matplotlib |
@@ -34,10 +31,6 @@
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 |<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQL.png" title="SQL" alt="SQL" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MongoDB.png" title="MongoDB" alt="MongoDB" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/MySQL.png" title="MySQL" alt="MySQL" width="80" height="80"/>|<img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assets/SQLite.png" title="SQLite" alt="SQLite" width="80" height="80"/>|
 
-## ​🇲​​🇴​​🇩​​🇺​​🇱​​🇦​​🇷​ ​🇹​​🇴​​🇴​​🇱​​🇰​​🇮​​🇹​:
-| HardHat | Foundry |
-|:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="80" height="80"/>|<img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" title="Foundry" alt="Foundry" width="80" height="80"/>|
 
 ## ​🇩​​🇪​​🇻​​🇴​​🇵​​🇸:​
 | Git | Docker |
