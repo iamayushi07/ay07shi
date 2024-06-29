@@ -7,7 +7,7 @@
 **I AM AN ENGINEERING STUDENT AND I AM A PASSIONATE SOFTWARE DEVELOPER WITH A LOVE FOR BOTH FRONTEND AND BACKEND TECHNOLOGIES.**
 
 ## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​:
-| JavaScript | C++ | Java | Python3 |
+| JavaScript | C++ | Python3 |
 |:----------:|:----------:|:----------:|:----------:|
 |<img src="https://www.bing.com/th?id=OIP.8lG71Gr7LODSWlZITL-NfwAAAA&w=151&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://eyeware.tech/wp-content/uploads/2023/11/C-Icon-Custom-1.webp" title="C++" alt="C++" width="80" height="80"/>
 
