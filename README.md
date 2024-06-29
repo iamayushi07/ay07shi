@@ -3,7 +3,7 @@
 </p>
 
 ## ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇲​​🇪​: 
-# 💫 About Me:
+
 I'm Ayushi, an engineering student and I'm a passionate software developer with a love for both frontend and backend technologies.
 
 
