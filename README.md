@@ -6,10 +6,30 @@
 
 **I AM AN ENGINEERING STUDENT AND I AM A PASSIONATE SOFTWARE DEVELOPER WITH A LOVE FOR BOTH FRONTEND AND BACKEND TECHNOLOGIES.**
 
-## ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​ ​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​​🇸​:
-| JavaScript | C++ | Python3 |
-|:----------:|:----------:|:----------:|:----------:|
-|<img src="https://www.bing.com/th?id=OIP.8lG71Gr7LODSWlZITL-NfwAAAA&w=151&h=185&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" title="JavaScript" alt="JavaScript" width="80" height="80"/>|<img src="https://eyeware.tech/wp-content/uploads/2023/11/C-Icon-Custom-1.webp" title="C++" alt="C++" width="80" height="80"/>
+<table align="left">
+     <thead>
+       <tr>
+         <th scope="col" colspan ="5">ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇѕ</th>
+       </tr>
+     </thead>
+     <tbody>
+          <tr>
+         <td align ="center"><b>ᴛʏᴘᴇѕᴄʀɪᴘᴛ</b></td>
+         <td align ="center"><b>ᴊᴀᴠᴀѕᴄʀɪᴘᴛ</b></td>
+         <td align ="center"><b>ɢᴏ</b></td>
+         <td align ="center"><b>ᴘʏᴛʜᴏɴ</b></td>
+       </tr>
+     </tbody>
+     <tfoot>
+       <tr>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/TypeScript.png" title="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" alt="ᴛʏᴘᴇѕᴄʀɪᴘᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/JavaScript.png" title="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" alt="ᴊᴀᴠᴀѕᴄʀɪᴘᴛ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Golang.png" title="ɢᴏʟᴀɴɢ" alt="ɢᴏʟᴀɴɢ" width="70" height="70"/></td>
+         <td align ="center"><img src="https://github.com/mainishanhoon/mainishanhoon/blob/main/Assests/Python.png" title="ᴘʏᴛʜᴏɴ" alt="ᴘʏᴛʜᴏɴ" width="70" height="70"/></td>     
+       </tr>
+     </tfoot>
+   </table>
+   
 
 ## 🇫​​🇷​​🇴​​🇳​​🇹​​🇪​​🇳​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇲​​🇪​​🇳​​🇹​:
 | HTML5 | CSS | React |
